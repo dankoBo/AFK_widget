@@ -75,8 +75,8 @@ body {
 
 .moon-wrapper {
 	position: absolute;
-	left: -195px;
-	top: -195px;
+	left: -132px;
+	top: -132px;
 	width: 130px;
 	height: 130px;
 	border-radius: 50%;
@@ -222,8 +222,8 @@ body {
 }
   
 .bg {
-	width: 1100px;
-	height: 1100px;
+	width: 930px;
+	height: 930px;
 	position: fixed;
 	top: 50%;
 	left: 50%;

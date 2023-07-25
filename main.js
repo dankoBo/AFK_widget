@@ -7,7 +7,7 @@ const moon = document.querySelector('.moon')
 
 // Розмір та радіус внутрішнього кола
 // const innerCircleSize = 660;
-const innerCircleSize = 1050;
+const innerCircleSize = 920;
 const innerCircleRadius = innerCircleSize / 2;
 
 // Розмір та радіус місяця
