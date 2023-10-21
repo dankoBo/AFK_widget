@@ -16,4 +16,5 @@ This project was created for personal use.
 To run the project, use the following commands:
   - yarn - to install dependencies.
   - yarn dev - to start the server.
+
 You can also view this project on Netlify by following this link: https://cheerful-brigadeiros-6a4ed1.netlify.app/
